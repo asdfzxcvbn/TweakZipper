@@ -1,0 +1,9 @@
+# rip
+/.go
+
+*.zip
+
+__pycache__/
+*.egg-info/
+/build
+
